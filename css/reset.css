@@ -57,3 +57,6 @@ button {
 	background: none;
 }
 
+button {
+	padding: 0;
+}
