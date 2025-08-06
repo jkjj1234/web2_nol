@@ -290,14 +290,21 @@
 .top_rank_box,
 .open_box {
     display: flex;
-    width: 1280px;
-    
+    width: 1280px; 
 }
 
-.top_rank_box a,
+/* .top_rank_box a, */
 .top_rank_box img {
     width: 240px;
     margin-right: 20px;
+}
+
+.top_rank_box ul {
+    width: 240px;
+}
+
+.top_rank_box li {
+    gap: 20px;
 }
 
 .img_box {
